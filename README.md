@@ -5,7 +5,7 @@ A simple HTML-based webpage showcasing the charm, attractions, and travel inform
 ---
 
 ## HOW TO VIEW?
-Click- https://harshit-80989.github.io/tourism_in_lucknow-/
+Click- https://harshit-80989.github.io/tourism_in_lucknow-HTML/
 
 ---
 
